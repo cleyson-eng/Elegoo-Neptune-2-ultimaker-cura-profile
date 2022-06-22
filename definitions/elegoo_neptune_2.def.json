@@ -32,15 +32,15 @@
         },
         "machine_width":
         {
-            "default_value": 235
+            "default_value": 220
         },
         "machine_height":
         {
-            "default_value": 260
+            "default_value": 250
         },
         "machine_depth":
         {
-            "default_value": 235
+            "default_value": 220
         },
         "machine_center_is_zero":
         {
@@ -48,7 +48,7 @@
         },
         "gantry_height":
         {
-            "value": "260"
+            "value": "250"
         },
         "machine_gcode_flavor":
         {
